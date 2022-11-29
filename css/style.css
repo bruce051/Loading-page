@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kk{
+    margin-top: 300px;
+    width: 200px;
+}
